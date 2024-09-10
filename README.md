@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FabioIacus
-- 👀 I’m interested in the whole IT world
-- 🌱 I’m currently learning Software Engineering 
-- 💞️ I’m looking to collaborate on Aerospace projects
+- ❤️ I’m passionate about new technologies 
+- 🌱 I’m currently studying Software Engineering @ Università Roma "Tor Vergata"
+- 💻 I'm available to collaborate on new software projects
 - 📫 How to reach me https://www.linkedin.com/in/fabio-iacus-1a98b818a/
 
 <!---
