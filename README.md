@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FabioIacus
 - ❤️ I’m passionate about new technologies
 - 📚 Currently pursuing a Master of Science in Engineering in Computer Science and Artificial Intelligence @ Sapienza University of Rome
-- 🌱 Graduated in Software Engineering @ Università di Roma "Tor Vergata"
+- 🎓 I hold a Bachelor's degree in Software Engineering from Tor Vergata
 - 💻 I'm available to collaborate on new software projects
 - 📫 How to reach me https://www.linkedin.com/in/fabio-iacus-1a98b818a/
 
